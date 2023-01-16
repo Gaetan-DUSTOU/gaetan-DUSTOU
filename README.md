@@ -27,7 +27,7 @@ I am currently looking for a DevOps apprenticeship.
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white "/>
 </p> 
 
-<img alt="Dev_Picture" src="https://www.linkpicture.com/q/fcf7fd0c619bb87706533079240915f3.gif" style="width: 500px; display: inline-block;" />
+<img align="right" alt="Dev_Picture" src="https://www.linkpicture.com/q/fcf7fd0c619bb87706533079240915f3.gif" style="width: 500px; display: inline-block;" />
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/gaetan-DUSTOU" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/gaetan-web-dev" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
