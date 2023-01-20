@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you, I'm Gaëtan.</h1>
-<h3 align="center">Welcome to my page! </br>I'm a junior developper from Avignon, France.</h3>
+<h3 align="center">Welcome to my page! </br>I'm a developper from Avignon, France.</h3>
 
 I am currently looking for a DevOps apprenticeship.
 
